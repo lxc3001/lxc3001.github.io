@@ -19,7 +19,8 @@ title: "Xuanchen Liu" # the main title
 tagline: "M.Sc. CS (Machine Learning), Université de Montréal" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  "M.Sc. student in Computer Science (Machine Learning) at Université de Montréal. "
+  "Research interests multimodal learning, medical AI, optimization."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +30,7 @@ github:
   username: lxc3001 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +39,11 @@ social:
   email: "lxc3001@outlook.com" # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # - https://twitter.com/username # change to your Twitter homepage
     - "https://github.com/lxc3001" # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - "https://www.linkedin.com/in/xuanchen-liu-827b572a7"
 
 # Site Verification Settings
 webmaster_verifications:
