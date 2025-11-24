@@ -19,8 +19,7 @@ title: "Xuanchen Liu" # the main title
 tagline: "M.Sc. CS (Machine Learning), Université de Montréal" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  "M.Sc. student in Computer Science (Machine Learning) at Université de Montréal. "
-  "Research interests multimodal learning, medical AI, optimization."
+  "M.Sc. student in Computer Science (Machine Learning) at Université de Montréal. Research interests multimodal learning, medical AI, optimization."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
